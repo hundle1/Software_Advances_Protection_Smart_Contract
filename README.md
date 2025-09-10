@@ -1,4 +1,5 @@
-### Software Advances Protection: New Smart-Contract for Non Fungible Software with proof-of-origin
+# Software Advances Protection
+# Smart-Contract for Non Fungible Software with proof-of-origin
 ## Về architectures
 # About Smart Contract:
 1. NFS token function(on-chain) :
