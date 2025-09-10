@@ -1,6 +1,6 @@
 # Software Advances Protection
 ----------------------------------------
-# Smart-Contract for Non Fungible Software with proof-of-origin
+## Smart-Contract for Non Fungible Software with proof-of-origin
 --------------------------------------------------------------------------
 ## Về architectures
 # About Smart Contract:
